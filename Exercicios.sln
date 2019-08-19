@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopularCaixaSelecao", "Popu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio5", "Exercicio5", "{DB3AD9D5-F6F2-402F-9065-A7C84DF5EF71}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\Users\sony - pc\Desktop\Exercicio5.txt = ..\..\Users\sony - pc\Desktop\Exercicio5.txt
+		..\..\Users\sony - pc\Desktop\Exercicio5.sql = ..\..\Users\sony - pc\Desktop\Exercicio5.sql
 	EndProjectSection
 EndProject
 Global
